@@ -1,0 +1,16 @@
+Role: owner
+Username: owner
+Password: owner
+
+Role: admin
+Username: admin
+Password: admin
+
+Role: kasir
+Username: kasir
+Password: kasir
+
+fitur baru pada transaksi:
+-keterangan waktu pada sidebar dibawah logo laundry exorcist
+-fitur generate laporan
+-klik untuk submit pada detail order bagian telp untuk diarahkan ke WA Api
